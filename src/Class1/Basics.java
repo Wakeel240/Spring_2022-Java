@@ -39,4 +39,17 @@ codes written in the class but outside the main method will not give compile tim
 
 // used as comment and not considered by Java or read by it
 // no code outside the curly braces of class
+// store variables below and print on console
+
+// number of hours in a day
+//max number of days in a year
+// total number of employees in an organisation
+// population in a country
+// mortgage rates
+// balance in a bak account
+// does the sun rise from the west
+// initials of my name using char// my initials are AA
+// Store my full name using string
 //
+
+// //
