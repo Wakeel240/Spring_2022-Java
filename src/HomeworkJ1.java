@@ -14,7 +14,7 @@ public class HomeworkJ1 {
 
         float currentMortgageRates = 9.8f;
 
-        double balanceinTheBankAccount =  6975.00;
+        double balanceinTheBankAccount =  697.001;
 
         boolean doesTheSunRiseFromTheWest = false;
 
